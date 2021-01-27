@@ -1,7 +1,25 @@
 ---
 layout: page
-title: Bootstrap 4 Github Pages
+title: STELLAR 2020 TEST PROJECT | Fred Siika - FRONTEND DEVELOPER
+output:
+includes:
+       in_header: GA_Script.html
 ---
+<div class="jumbotron jumbotron-fluid">
+      <nav class="nav justify-content-center">
+          <a class="navbar-brand" href="#">
+            <img src="https://cdn.shortpixel.ai/client/q_glossy,ret_img/https://boatrentalmanagement.com/wp-content/uploads/2018/11/stellarlogo_stack.png" width="100" height="100" style="object-fit: contain;" alt="">
+          </a>
+      </nav>
+      <h1 class="display-4" style="text-align: center;">
+        Stellar 2021 Test Project <br /> Frontend Developer
+      </h1>
+      <h3 class="text-center">
+        Task Management -
+        <small class="text-muted">Edit Task</small>
+      </h3>
+      <hr class="my-4">
+    </div>
 
 A [Bootstrap 4](https://getbootstrap.com/) start up project for [Github Pages](https://pages.github.com/) and [Jekyll](https://jekyllrb.com/).
 
